@@ -1,11 +1,10 @@
 /* styles.css */
-/* @import url('./fonts.css?t=000'); */
+@import url('国内地址/static/style2.css?t=000');
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('http://192.168.110.112:8088/static/style2.css?family=Open&display=swap');
+    src: url('国外地址/static/style2.css?family=Open&display=swap');
     /* 可能需要适当的格式描述，如 WOFF2 */
     font-weight: normal;
     font-style: normal;
 }
-
